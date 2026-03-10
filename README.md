@@ -71,8 +71,10 @@ JOIN pizzas
 
                                                        Author
 
-Wani Umer — Data Analytics.
-www.linkedin.com/in/waniumer-analytics.
+Wani Umer — Data Analyst 
+1. PORTFOLIO:- https://codebasics.io/portfolio/WANI-UMER
+
+2. LINKEDIN:- www.linkedin.com/in/waniumer-analytics.
 
 
 
