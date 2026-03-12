@@ -1,14 +1,14 @@
-                                    The-Pizza-SQLery-Sales-Revenue-Insights
+                                    The-Pizza-Sales-Revenue-Insights
                                             
                                          Domain :- SALES
 
 <img width="1536" height="1024" alt="thumbnail" src="https://github.com/user-attachments/assets/b68cc746-769c-4498-b6b6-3dc828fa3134" />
 
                                             
-This project is a complete end-to-end SQL case study analyzing pizza sales performance using real-world business questions.
+- This project is a complete end-to-end SQL case study analyzing pizza sales performance using real-world business questions.
 It uncovers total orders, revenue patterns, top-performing pizzas, customer preferences, and advanced category-level insights, helping businesses optimize menu strategy and boost profitability.
 
-                                             Project Features
+                                             Project Features.
 
 * 13 business-driven SQL questions
 * Clean, modular SQL scripts
@@ -17,16 +17,16 @@ It uncovers total orders, revenue patterns, top-performing pizzas, customer pref
 * Beginner-friendly + interview-ready
 * PDF project report included
 
-                                              SQL Concepts Used
+                                              SQL Concepts Used.
 
-1. Joins (INNER JOIN)
-2. GROUP BY, ORDER BY
-3. Aggregations (SUM, COUNT, AVG)
-4. Window Functions (RANK, SUM OVER)
-5. Subqueries
-6. CTEs
-7. Percentage calculations
-8. Date & time functions
+-  Joins (INNER JOIN)
+-  GROUP BY, ORDER BY
+-  Aggregations (SUM, COUNT, AVG)
+-  Window Functions (RANK, SUM OVER)
+-  Subqueries
+-  CTEs
+-  Percentage calculations
+-  Date & time functions
 
                                              Business Questions Answered
 
@@ -45,13 +45,6 @@ It uncovers total orders, revenue patterns, top-performing pizzas, customer pref
 13. Top 3 pizzas by category based on revenue
 
 
-                                       Example Query (Total Revenue)
-SELECT 
-    ROUND(SUM(order_details.quantity * pizzas.price), 1) AS Total_Sales
-FROM order_details
-JOIN pizzas 
-    ON pizzas.pizza_id = order_details.pizza_id;
-
                                            Key Insights 
 
 1. Total Orders: 21,350+
@@ -63,17 +56,11 @@ JOIN pizzas
 7. Average pizzas/day: 138
 8. Peak order hours: 12 PM – 8 PM
 
-                                                 Tech Stack
-
-1. SQL (MySQL )
-2.Excel / CSV for dataset
-3. GitHub for version control
-
+                                             
                                                        Author
 
-Wani Umer — Data Analyst 
-1. PORTFOLIO:- https://codebasics.io/portfolio/WANI-UMER
-
+- Wani Umer — Data Analyst .
+1. PORTFOLIO:- https://codebasics.io/portfolio/WANI-UMER .
 2. LINKEDIN:- www.linkedin.com/in/waniumer-analytics.
 
 
