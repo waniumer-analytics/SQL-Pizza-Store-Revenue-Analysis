@@ -1,14 +1,12 @@
-                                    The-Pizza-Sales-Revenue-Insights
+ ##                                    The-Pizza-Sales-Revenue-Insights
                                             
-                                         Domain :- SALES
-
 <img width="1536" height="1024" alt="thumbnail" src="https://github.com/user-attachments/assets/b68cc746-769c-4498-b6b6-3dc828fa3134" />
 
                                             
 - This project is a complete end-to-end SQL case study analyzing pizza sales performance using real-world business questions.
 It uncovers total orders, revenue patterns, top-performing pizzas, customer preferences, and advanced category-level insights, helping businesses optimize menu strategy and boost profitability.
 
-                                             Project Features.
+##                                              Project Features.
 
 * 13 business-driven SQL questions
 * Clean, modular SQL scripts
@@ -17,7 +15,7 @@ It uncovers total orders, revenue patterns, top-performing pizzas, customer pref
 * Beginner-friendly + interview-ready
 * PDF project report included
 
-                                              SQL Concepts Used.
+   ##                                            SQL Concepts Used.
 
 -  Joins (INNER JOIN)
 -  GROUP BY, ORDER BY
@@ -28,7 +26,7 @@ It uncovers total orders, revenue patterns, top-performing pizzas, customer pref
 -  Percentage calculations
 -  Date & time functions
 
-                                             Business Questions Answered
+##                                              Business Questions Answered
 
 1. Retrieve the total number of orders
 2. Calculate total revenue from sales
@@ -45,7 +43,7 @@ It uncovers total orders, revenue patterns, top-performing pizzas, customer pref
 13. Top 3 pizzas by category based on revenue
 
 
-                                           Key Insights 
+   ##                                         Key Insights 
 
 1. Total Orders: 21,350+
 2. Total Revenue: ₹817,860
@@ -57,10 +55,12 @@ It uncovers total orders, revenue patterns, top-performing pizzas, customer pref
 8. Peak order hours: 12 PM – 8 PM
 
                                              
-                                                       Author
+  ##                                                      Author
 
 - Wani Umer — Data Analyst .
+  
 1. PORTFOLIO:- https://codebasics.io/portfolio/WANI-UMER .
+   
 2. LINKEDIN:- www.linkedin.com/in/waniumer-analytics.
 
 
